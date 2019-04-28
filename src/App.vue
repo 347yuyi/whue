@@ -9,6 +9,7 @@
 
 <script>
 export default {
+
   methods: {
     startHacking () {
       this.$notify({
